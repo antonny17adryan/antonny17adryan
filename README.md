@@ -1,8 +1,5 @@
 # 👋 **Olá, seja muito bem-vindo(a) ao meu espaço!** 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=antonny17adryan&theme=midnight-purple&show_icons=true&card_width=400" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonny17adryan&theme=midnight-purple&layout=compact&card_width=400" alt="Top Langs" />
-
 
 Eu sou o **Adryan**, estudante de Técnico em Informática no **IFRN** e apaixonado por tudo que envolve tecnologia e conhecimento.  
 Além disso, sou católico e acredito no poder da fé e do aprendizado contínuo para transformar vidas. ✨  
@@ -11,6 +8,9 @@ Atualmente, estou explorando um mundo cheio de possibilidades no 1º ano do meu 
 
 ---
 
+  <img src="https://github-readme-stats.vercel.app/api?username=antonny17adryan&theme=midnight-purple&show_icons=true&card_width=400" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonny17adryan&theme=midnight-purple&layout=compact&card_width=400" alt="Top Langs" />
+  
 ## 🌱 **Linguagens que estou aprendendo**  
 Aprender é a minha maior ferramenta, e aqui estão as tecnologias que estão ganhando espaço no meu dia a dia:  
 
